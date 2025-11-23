@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
-    "ogImage": "/og-image.png",
+    "name": "Braains.io",
+    "tagline": "Survive the Apocalypse",
+    "description": "Join 52 players in an intense zombie survival multiplayer game. Be the last survivor or spread the infection. Master survival mechanics and join our 30K+ Discord community.",
+    "ogImage": "/zombie-hero-nii7n.png",
     "twitterHandle": "",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
+      "email": "support@braains.io",
+      "company": "Braains.io",
       "address": ""
     },
     "legal": {
